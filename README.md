@@ -16,7 +16,7 @@ Desarrollador Full Stack en Cuenca (España), con disponibilidad en Madrid. Cons
 |---|---|---|
 | **GymOS** | SaaS de gestión de gimnasios: acceso QR, reservas, rutinas, dietas y tienda. 295 usuarios en producción. | TypeScript · React · Node.js · Express · MySQL · Capacitor |
 | **[MadaTruck](https://madatruck.es)** | Aplicación de gestión interna para taller: órdenes de trabajo, clientes y seguimiento de tareas. | Aplicación web a medida |
-| **[LowNoise Lab](https://lownoiselab.es)** | E-commerce con configurador de producto, pasarela de pago y panel de gestión para el cliente. | PrestaShop · PHP · MySQL |
+| **[LowNoise Lab](https://lownoiselab.es)** | E-commerce a medida con configurador de producto, pasarela de pago y panel de administración tipo CMS desde el que el cliente edita todo el contenido de la web. | Angular · TypeScript |
 | **[Restaurante Galilea](https://restaurantegalilea.es)** | Web con carta, menús del día y reservas online, con panel para actualizar los menús sin tocar código. | Web a medida con panel de administración |
 | **[Sercampo](https://www.sercampo.com)** | Web corporativa de la empresa. | Web corporativa |
 
@@ -30,3 +30,4 @@ Desarrollador Full Stack en Cuenca (España), con disponibilidad en Madrid. Cons
 
 - Email: ivan.serranom22@gmail.com
 - LinkedIn: [Iván Serrano Moreno](https://www.linkedin.com/in/iv%C3%A1n-serrano-moreno-23115633b/)
+
