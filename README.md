@@ -15,8 +15,16 @@ Desarrollador Full Stack en Cuenca (España), con disponibilidad en Madrid. Cons
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | **GymOS** | SaaS de gestión de gimnasios: acceso QR, reservas, rutinas, dietas y tienda. 295 usuarios en producción. | TypeScript · React · Node.js · Express · MySQL · Capacitor |
-| **MadaTruck** | Aplicación de gestión interna para taller: órdenes de trabajo, clientes y seguimiento de tareas. | Aplicación web a medida |
-| **LowNoise Lab** | E-commerce con configurador de producto y pasarela de pago. | PrestaShop · PHP · MySQL |
+| **[MadaTruck](https://madatruck.es)** | Aplicación de gestión interna para taller: órdenes de trabajo, clientes y seguimiento de tareas. | Aplicación web a medida |
+| **[LowNoise Lab](https://lownoiselab.es)** | E-commerce con configurador de producto, pasarela de pago y panel de gestión para el cliente. | PrestaShop · PHP · MySQL |
+| **[Restaurante Galilea](https://restaurantegalilea.es)** | Web con carta, menús del día y reservas online, con panel para actualizar los menús sin tocar código. | Web a medida con panel de administración |
+| **[Sercampo](https://www.sercampo.com)** | Web corporativa de la empresa. | Web corporativa |
+
+### Otras webs corporativas
+
+- **[Academia Versus](https://academiaversus.com)**: web para academia de formación, orientada a la captación de alumnos.
+- **[CuenKon](https://cuenkon.es)**: web para asociación cultural con actividades, galería y alta de socios.
+- **[Carpintería Hnos. Aparicio](https://www.carpinteriahnosaparicio.com)**: web corporativa en Angular, con migración a Hostinger (dominio, SFTP, .htaccess y SEO).
 
 ## Contacto
 
